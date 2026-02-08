@@ -2,4 +2,4 @@
 - **Monte Carlo Simulation**
 - **503 US Companies Data Scraping** 
 - **Data Chart Visualization (Line or Candlestick Chart)**
-- **Technical Indicator visualization (Moving averages)** 
+- **Technical Indicators Visualization (Moving averages)** 
