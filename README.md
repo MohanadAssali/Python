@@ -1,5 +1,5 @@
+- **503 US Companies Data Scraping** 
 - **Data Chart Visualization (Line or Candlestick Chart)**
 - **Correlation Heatmap**
 - **Monte Carlo Simulation**
-- **503 US Companies Data Scraping** 
 - **Technical Indicators Visualization (Moving averages)** 
