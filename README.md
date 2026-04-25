@@ -4,6 +4,8 @@
 - **Monte Carlo Simulation**
 - **Technical Indicators Visualization (Moving averages)** 
 
-## Projects:
-- **Natural Gas Forward Curve Tool**
 
+---
+
+### Projects
+- **Natural Gas Forward Curve Tool**
