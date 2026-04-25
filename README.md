@@ -5,5 +5,5 @@
 - **Technical Indicators Visualization (Moving averages)** 
 
 ## Projects:
-- **NatGas SeasonalForecaster**
+- **NatGas Forward Curve Tool**
 
