@@ -3,3 +3,7 @@
 - **Correlation Heatmap**
 - **Monte Carlo Simulation**
 - **Technical Indicators Visualization (Moving averages)** 
+
+## Projects:
+- **NatGas SeasonalForecaster**
+
