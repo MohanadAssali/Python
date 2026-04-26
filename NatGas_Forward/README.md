@@ -1,7 +1,7 @@
 ### Natural Gas Forward Curve Tool
 Python-based valuation engine for physical Natural Gas storage contracts. The tool extrapolates sparse monthly market data into a granular, daily forward curve by accounting for long-term price trends and monthly seasonality.
 
-- **Graph Displays Sine/Cosine logic/Staircase Behavior and Forward Extrapolation**
+**Graph Displays Sine/Cosine logic/Staircase Behavior and Forward Extrapolation**
 
 ## Trade Logic
 Injection (Buy): Usually happens in Summer (low demand).
