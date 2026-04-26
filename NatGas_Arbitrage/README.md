@@ -4,9 +4,23 @@ Python-based valuation engine for physical Natural Gas storage contracts. This p
 
 **Graph Displays Continuous forward curve extrapolation (Sine/Cosine logic), historical market snapshots, and the elimination of step-wise pricing for granular daily valuation.**
 
+-
+
 **The Math**
 
 $$(Price_{Sell} - Price_{Buy}) \times Volume > Storage\_Costs + Movement\_Fees$$
+
+-
+
+**Trade Logic**
+
+Injection (Buy): Occurs during price troughs (Summer/Low demand).
+
+Withdrawal (Sell): Occurs during price peaks (Winter/High demand).
+
+Safety Checks: Built-in logic to prevent exceeding Max Capacity or withdrawing more than the current Inventory.
+
+-
 
 **Test Case Result**
 
