@@ -3,12 +3,13 @@ Python-based valuation engine for physical Natural Gas storage contracts. The to
 
 **Graph Displays Sine/Cosine logic/Staircase Behavior and Forward Extrapolation**
 
-## Trade Logic
+**Trade Logic**
+
 Injection (Buy): Usually happens in Summer (low demand).
 
 Withdrawal (Sell): Usually happens in Winter (high demand).
 
-The Math: 
+**The Math**
 
 If $Price_{Winter} - Price_{Summer} > Storage\_Costs$,  ----  then (profitable trade).
 
