@@ -10,3 +10,5 @@
 ### Quant Finance Projects
 - **Natural Gas Forward Curve Tool**
 - **Natural Gas Storage Arbitrage Model**
+- **Credit Risk Valuation Engine**
+
