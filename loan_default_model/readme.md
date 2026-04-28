@@ -6,7 +6,7 @@ Python-based risk assessment engine for retail loan portfolios. The tool utilize
 
 -
 
-**Trade Logic**
+**Logic**
 
 Default (Loss): Occurs when borrower financial indicators (FICO, DTI) breach the model's classification boundary.
 
