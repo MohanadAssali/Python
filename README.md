@@ -11,4 +11,4 @@
 - **Natural Gas Forward Curve Tool**
 - **Natural Gas Storage Arbitrage Model**
 - **Credit Risk Valuation Engine**
-
+- **FICO Quantization & Rating Engine**
